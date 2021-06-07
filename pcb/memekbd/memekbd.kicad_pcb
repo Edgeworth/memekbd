@@ -5819,7 +5819,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD289F)
-    (at 233.5 84 180)
+    (at 234.5 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3993)
@@ -5872,7 +5872,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2880)
-    (at 233.5 65 180)
+    (at 234.5 65.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA39A0)
@@ -5925,7 +5925,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2861)
-    (at 234 46 180)
+    (at 234.5 46.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA39AC)
@@ -5978,7 +5978,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2842)
-    (at 233.5 27 180)
+    (at 234.5 27.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA39B9)
@@ -6031,7 +6031,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2823)
-    (at 214.5 84 180)
+    (at 215.5 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3950)
@@ -6084,7 +6084,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2804)
-    (at 214 65 180)
+    (at 215.5 65.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA395D)
@@ -6137,7 +6137,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD27E5)
-    (at 214.5 46 180)
+    (at 215.5 46.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3969)
@@ -6189,8 +6189,8 @@
     )
   )
 
-  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD27C6)
-    (at 214 27 180)
+  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BEABC3)
+    (at 215.5 27.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3976)
@@ -6243,7 +6243,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD27A7)
-    (at 214.5 8 180)
+    (at 215.5 8.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3988)
@@ -6295,8 +6295,8 @@
     )
   )
 
-  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2788)
-    (at 196 84 180)
+  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BEAA91)
+    (at 196.5 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A0A)
@@ -6348,8 +6348,8 @@
     )
   )
 
-  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2769)
-    (at 195.5 65 180)
+  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BEA9EF)
+    (at 196.5 65.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A17)
@@ -6402,7 +6402,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD274A)
-    (at 195 46 180)
+    (at 196.5 46.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A23)
@@ -6455,7 +6455,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD272B)
-    (at 195 27 180)
+    (at 196.5 27.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A30)
@@ -6507,8 +6507,8 @@
     )
   )
 
-  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD270C)
-    (at 195.5 8 180)
+  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BEA7E4)
+    (at 196.5 8.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A42)
@@ -6561,7 +6561,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD26ED)
-    (at 177 84 180)
+    (at 177.5 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA39CA)
@@ -6613,8 +6613,8 @@
     )
   )
 
-  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD26CE)
-    (at 176.5 65 180)
+  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BEA5B0)
+    (at 177.5 65.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA39D7)
@@ -6667,7 +6667,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD26AF)
-    (at 176 46 180)
+    (at 177.5 46.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA39E3)
@@ -6720,7 +6720,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2690)
-    (at 176.5 27 180)
+    (at 177.5 27.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA39F0)
@@ -6773,7 +6773,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2671)
-    (at 176.5 8 180)
+    (at 177.5 8.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA39FC)
@@ -6826,7 +6826,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2652)
-    (at 158 84 180)
+    (at 158.5 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A4D)
@@ -6878,8 +6878,8 @@
     )
   )
 
-  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2633)
-    (at 158 65 180)
+  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BEA1CC)
+    (at 158.5 65.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A5A)
@@ -6931,8 +6931,8 @@
     )
   )
 
-  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2614)
-    (at 157.5 46 180)
+  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BEA12A)
+    (at 158.5 46.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A66)
@@ -6985,7 +6985,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD25F5)
-    (at 157 27 180)
+    (at 158.5 27.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A73)
@@ -7038,7 +7038,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD25D6)
-    (at 60.5 84 180)
+    (at 61 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60C64B99)
@@ -7090,8 +7090,8 @@
     )
   )
 
-  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD25B7)
-    (at 60 65 180)
+  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BE9EC6)
+    (at 61 65.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60C5E904)
@@ -7144,7 +7144,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2598)
-    (at 60 46 180)
+    (at 61 46.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60C508CF)
@@ -7197,7 +7197,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2579)
-    (at 60 27 180)
+    (at 61 27.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60C508BF)
@@ -7250,7 +7250,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD255A)
-    (at 41 84 180)
+    (at 42 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CC0156)
@@ -7303,7 +7303,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD253B)
-    (at 41.5 65 180)
+    (at 42 65.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CC0149)
@@ -7356,7 +7356,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD251C)
-    (at 41 46 180)
+    (at 42 46.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CC013D)
@@ -7409,7 +7409,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD24FD)
-    (at 41.5 27 180)
+    (at 42 27.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CC0130)
@@ -7462,7 +7462,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD24DE)
-    (at 41 8 180)
+    (at 42 8.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CC011E)
@@ -7515,7 +7515,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD24BF)
-    (at 22.5 84 180)
+    (at 23 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD5368)
@@ -7568,7 +7568,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD24A0)
-    (at 22.5 65 180)
+    (at 23 65.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD5375)
@@ -7621,7 +7621,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2481)
-    (at 22 46.5 180)
+    (at 23 46.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD5381)
@@ -7673,8 +7673,8 @@
     )
   )
 
-  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2462)
-    (at 22.5 27 180)
+  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BE9A33)
+    (at 23 27.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD538E)
@@ -7726,8 +7726,8 @@
     )
   )
 
-  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2443)
-    (at 22.5 8 180)
+  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BE9991)
+    (at 23 8.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD53A0)
@@ -7780,7 +7780,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2424)
-    (at 3 84 180)
+    (at 4 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD5322)
@@ -7833,7 +7833,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2405)
-    (at 3 65 180)
+    (at 4 65.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD532F)
@@ -7886,7 +7886,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD23E6)
-    (at 3 46 180)
+    (at 4 46.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD533B)
@@ -7939,7 +7939,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD23C7)
-    (at 3 27 180)
+    (at 4 27.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD5348)
@@ -7991,8 +7991,8 @@
     )
   )
 
-  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD23A8)
-    (at 3.5 8 180)
+  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BE9649)
+    (at 4 8.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD535A)
@@ -8045,7 +8045,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2389)
-    (at -15.5 84.5 180)
+    (at -15 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CE096A)
@@ -8098,7 +8098,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD236A)
-    (at -15.5 65 180)
+    (at -15 65.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CE0977)
@@ -8150,8 +8150,8 @@
     )
   )
 
-  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD234B)
-    (at -15.5 46.5 180)
+  (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BE942D)
+    (at -15 46.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CE0983)
