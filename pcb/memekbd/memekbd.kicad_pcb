@@ -369,7 +369,7 @@
   )
 
   (module kbd:MJ-4PP-9_1side (layer F.Cu) (tedit 5F8C8304) (tstamp 60BE7722)
-    (at 125.5 47 90)
+    (at 179.25 22.75 90)
     (path /614F5099)
     (fp_text reference J2 (at -0.85 4.95 90) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -402,7 +402,7 @@
   )
 
   (module kbd:MJ-4PP-9_1side (layer F.Cu) (tedit 5F8C8304) (tstamp 60BE7713)
-    (at 82 47.5 270)
+    (at 85.75 24.5 270)
     (path /614F36EF)
     (fp_text reference J1 (at -0.85 4.95 90) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -435,7 +435,7 @@
   )
 
   (module kbd:ProMicro_v3.5 (layer F.Cu) (tedit 5CC05BC0) (tstamp 60BD3747)
-    (at 130.5 28)
+    (at 184.25 3.75)
     (path /60D90933)
     (fp_text reference U2 (at 0 -5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -602,7 +602,7 @@
   )
 
   (module kbd:ProMicro_v3.5 (layer F.Cu) (tedit 5CC05BC0) (tstamp 60BD36F5)
-    (at 77.5 28)
+    (at 81.25 5)
     (path /60D83D2B)
     (fp_text reference U1 (at 0 -5 270) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -769,7 +769,7 @@
   )
 
   (module Button_Switch_THT:SW_PUSH_6mm_H7.3mm (layer F.Cu) (tedit 5A02FE31) (tstamp 60BD36A3)
-    (at 128 61)
+    (at 181.75 36.75)
     (descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=7.3mm")
     (tags "tact sw push 6mm")
     (path /60DB1047)
@@ -820,7 +820,7 @@
   )
 
   (module Button_Switch_THT:SW_PUSH_6mm_H7.3mm (layer F.Cu) (tedit 5A02FE31) (tstamp 60BD3684)
-    (at 72.5 62.5)
+    (at 76.25 39.5)
     (descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=7.3mm")
     (tags "tact sw push 6mm")
     (path /60DAF750)
@@ -871,7 +871,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD3665)
-    (at 230.5 76 180)
+    (at 237.75 76 180)
     (path /60DA3999)
     (fp_text reference SW46 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -927,7 +927,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD363B)
-    (at 230.5 57 180)
+    (at 285.5 57 180)
     (path /60DA39A6)
     (fp_text reference SW45 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -983,7 +983,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD3611)
-    (at 230.5 38 180)
+    (at 285.5 38 180)
     (path /60DA39B2)
     (fp_text reference SW44 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1039,7 +1039,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD35E7)
-    (at 230.5 19 180)
+    (at 285.5 19 180)
     (path /60DA39BF)
     (fp_text reference SW43 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1095,7 +1095,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD35BD)
-    (at 211.5 76 180)
+    (at 218.75 76 180)
     (path /60DA3956)
     (fp_text reference SW42 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1151,7 +1151,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD3593)
-    (at 211.5 57 180)
+    (at 266.5 45 180)
     (path /60DA3963)
     (fp_text reference SW41 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1207,7 +1207,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD3569)
-    (at 211.5 38 180)
+    (at 266.5 26 180)
     (path /60DA396F)
     (fp_text reference SW40 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1263,7 +1263,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD353F)
-    (at 211.5 19 180)
+    (at 266.5 7 180)
     (path /60DA397C)
     (fp_text reference SW39 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1319,7 +1319,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD3515)
-    (at 211.5 0 180)
+    (at 266.5 -12 180)
     (path /60DA3982)
     (fp_text reference SW38 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1375,7 +1375,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD34EB)
-    (at 192.5 76 180)
+    (at 199.75 76 180)
     (path /60DA3A10)
     (fp_text reference SW37 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1431,7 +1431,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD34C1)
-    (at 192.5 57 180)
+    (at 247.5 43 180)
     (path /60DA3A1D)
     (fp_text reference SW36 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1487,7 +1487,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD3497)
-    (at 192.5 38 180)
+    (at 247.5 24 180)
     (path /60DA3A29)
     (fp_text reference SW35 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1543,7 +1543,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD346D)
-    (at 192.5 19 180)
+    (at 247.5 5 180)
     (path /60DA3A36)
     (fp_text reference SW34 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1599,7 +1599,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD3443)
-    (at 192.5 0 180)
+    (at 247.5 -14 180)
     (path /60DA3A3C)
     (fp_text reference SW33 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1655,7 +1655,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD3419)
-    (at 173.5 76 180)
+    (at 180.75 76 180)
     (path /60DA39D0)
     (fp_text reference SW32 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1711,7 +1711,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD33EF)
-    (at 173.5 57 180)
+    (at 228.5 50 180)
     (path /60DA39DD)
     (fp_text reference SW31 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1767,7 +1767,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD33C5)
-    (at 173.5 38 180)
+    (at 228.5 31 180)
     (path /60DA39E9)
     (fp_text reference SW30 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1823,7 +1823,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD339B)
-    (at 173.5 19 180)
+    (at 228.5 12 180)
     (path /60DA39F6)
     (fp_text reference SW29 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1879,7 +1879,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD3371)
-    (at 173.5 0 180)
+    (at 228.5 -7 180)
     (path /60DA3AA4)
     (fp_text reference SW28 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1935,7 +1935,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD3347)
-    (at 154.5 76 180)
+    (at 161.75 76 180)
     (path /60DA3A53)
     (fp_text reference SW27 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1991,7 +1991,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD331D)
-    (at 154.5 57 180)
+    (at 209.5 50 180)
     (path /60DA3A60)
     (fp_text reference SW26 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2047,7 +2047,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD32F3)
-    (at 154.5 38 180)
+    (at 209.5 31 180)
     (path /60DA3A6C)
     (fp_text reference SW25 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2103,7 +2103,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD32C9)
-    (at 154.5 19 180)
+    (at 209.5 12 180)
     (path /60DA3A79)
     (fp_text reference SW24 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2159,7 +2159,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD329F)
-    (at 57 76 180)
+    (at 104.5 76 180)
     (path /60C64B93)
     (fp_text reference SW23 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2215,7 +2215,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD3275)
-    (at 57 57 180)
+    (at 57 50 180)
     (path /60C5E8FE)
     (fp_text reference SW22 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2271,7 +2271,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD324B)
-    (at 57 38 180)
+    (at 57 31 180)
     (path /60C508C9)
     (fp_text reference SW21 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2327,7 +2327,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD3221)
-    (at 57 19 180)
+    (at 57 12 180)
     (path /60C508B9)
     (fp_text reference SW20 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2383,7 +2383,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD31F7)
-    (at 38 76 180)
+    (at 85.5 76 180)
     (path /60CC0150)
     (fp_text reference SW19 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2439,7 +2439,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD31CD)
-    (at 38 57 180)
+    (at 38 50 180)
     (path /60CC0143)
     (fp_text reference SW18 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2495,7 +2495,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD31A3)
-    (at 38 38 180)
+    (at 38 31 180)
     (path /60CC0137)
     (fp_text reference SW17 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2551,7 +2551,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD3179)
-    (at 38 19 180)
+    (at 38 12 180)
     (path /60CC012A)
     (fp_text reference SW16 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2607,7 +2607,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD314F)
-    (at 38 0 180)
+    (at 38 -7 180)
     (path /60CC0124)
     (fp_text reference SW15 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2663,7 +2663,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD3125)
-    (at 19 76 180)
+    (at 66.5 76 180)
     (path /60CD536E)
     (fp_text reference SW14 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2719,7 +2719,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD30FB)
-    (at 19 57 180)
+    (at 19 43 180)
     (path /60CD537B)
     (fp_text reference SW13 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2775,7 +2775,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD30D1)
-    (at 19 38 180)
+    (at 19 24 180)
     (path /60CD5387)
     (fp_text reference SW12 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2831,7 +2831,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD30A7)
-    (at 19 19 180)
+    (at 19 5 180)
     (path /60CD5394)
     (fp_text reference SW11 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2887,7 +2887,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD307D)
-    (at 19 0 180)
+    (at 19 -14 180)
     (path /60CD539A)
     (fp_text reference SW10 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2943,7 +2943,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD3053)
-    (at 0 76 180)
+    (at 47.5 76 180)
     (path /60CD5328)
     (fp_text reference SW9 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2999,7 +2999,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD3029)
-    (at 0 57 180)
+    (at 0 45 180)
     (path /60CD5335)
     (fp_text reference SW8 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3055,7 +3055,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD2FFF)
-    (at 0 38 180)
+    (at 0 26 180)
     (path /60CD5341)
     (fp_text reference SW7 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3111,7 +3111,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD2FD5)
-    (at 0 19 180)
+    (at 0 7 180)
     (path /60CD534E)
     (fp_text reference SW6 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3167,7 +3167,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD2FAB)
-    (at 0 0 180)
+    (at 0 -12 180)
     (path /60CD5354)
     (fp_text reference SW5 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3223,7 +3223,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5F70BC32) (tstamp 60BD2F81)
-    (at -19 76 180)
+    (at 28.5 76 180)
     (path /60CE0970)
     (fp_text reference SW4 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3447,7 +3447,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 60BD2ED9)
-    (at 135 52.5 180)
+    (at 188.75 28.25 180)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /60E5D7BB)
@@ -3488,7 +3488,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 60BD2EC2)
-    (at 135 56.5 180)
+    (at 188.75 32.25 180)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /60E5D7AF)
@@ -3529,7 +3529,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 60BD2EAB)
-    (at 72 53.5)
+    (at 75.75 30.5)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /60E00297)
@@ -3570,7 +3570,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 60BD2E94)
-    (at 72 57.5)
+    (at 75.75 34.5)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /60DFBED0)
@@ -3611,7 +3611,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2E7D)
-    (at 230.5 71.5)
+    (at 237.75 71.5)
     (path /6118FB0D)
     (fp_text reference LED46 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -3659,7 +3659,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2E5D)
-    (at 230.5 52.5)
+    (at 285.5 52.5)
     (path /6117AE58)
     (fp_text reference LED45 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -3707,7 +3707,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2E3D)
-    (at 230.5 33.5)
+    (at 285.5 33.5)
     (path /61159A4D)
     (fp_text reference LED44 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -3755,7 +3755,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2E1D)
-    (at 230.5 14.5)
+    (at 285.5 14.5)
     (path /611439D8)
     (fp_text reference LED43 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -3803,7 +3803,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2DFD)
-    (at 211.5 71.5)
+    (at 218.75 71.5)
     (path /6118FAEE)
     (fp_text reference LED42 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -3851,7 +3851,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2DDD)
-    (at 211.5 52.5)
+    (at 266.5 40.5)
     (path /6117AE39)
     (fp_text reference LED41 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -3899,7 +3899,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2DBD)
-    (at 211.5 33.5)
+    (at 266.5 21.5)
     (path /61159A2E)
     (fp_text reference LED40 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -3947,7 +3947,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2D9D)
-    (at 211.5 14.5)
+    (at 266.5 2.5)
     (path /611439B9)
     (fp_text reference LED39 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -3995,7 +3995,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2D7D)
-    (at 211.5 -4.5)
+    (at 266.5 -16.5)
     (path /611C4A62)
     (fp_text reference LED38 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4043,7 +4043,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2D5D)
-    (at 192.5 71.5)
+    (at 199.75 71.5)
     (path /6118FAD4)
     (fp_text reference LED37 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4091,7 +4091,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2D3D)
-    (at 192.5 52.5)
+    (at 247.5 38.5)
     (path /6117AE1F)
     (fp_text reference LED36 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4139,7 +4139,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2D1D)
-    (at 192.5 33.5)
+    (at 247.5 19.5)
     (path /61159A14)
     (fp_text reference LED35 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4187,7 +4187,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2CFD)
-    (at 192.5 14.5)
+    (at 247.5 0.5)
     (path /6114399F)
     (fp_text reference LED34 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4235,7 +4235,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2CDD)
-    (at 192.5 -4.5)
+    (at 247.5 -18.5)
     (path /611C4A43)
     (fp_text reference LED33 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4283,7 +4283,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2CBD)
-    (at 173.5 71.5)
+    (at 180.75 71.5)
     (path /6118FAB5)
     (fp_text reference LED32 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4331,7 +4331,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2C9D)
-    (at 173.5 52.5)
+    (at 228.5 45.5)
     (path /6117AE00)
     (fp_text reference LED31 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4379,7 +4379,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2C7D)
-    (at 173.5 33.5)
+    (at 228.5 26.5)
     (path /611599F5)
     (fp_text reference LED30 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4427,7 +4427,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2C5D)
-    (at 173.5 14.5)
+    (at 228.5 7.5)
     (path /61143980)
     (fp_text reference LED29 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4475,7 +4475,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2C3D)
-    (at 173.5 -4.5)
+    (at 228.5 -11.5)
     (path /611C4A22)
     (fp_text reference LED28 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4523,7 +4523,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2C1D)
-    (at 154.5 71.5)
+    (at 161.75 71.5)
     (path /6118FA94)
     (fp_text reference LED27 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4571,7 +4571,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2BFD)
-    (at 154.5 52.5)
+    (at 209.5 45.5)
     (path /6117ADDF)
     (fp_text reference LED26 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4619,7 +4619,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2BDD)
-    (at 154.5 33.5)
+    (at 209.5 26.5)
     (path /611599D4)
     (fp_text reference LED25 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4667,7 +4667,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2BBD)
-    (at 154.5 14.5)
+    (at 209.5 7.5)
     (path /6114395F)
     (fp_text reference LED24 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4715,7 +4715,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2B9D)
-    (at 57 71.5)
+    (at 104.5 71.5)
     (path /61113479)
     (fp_text reference LED23 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4763,7 +4763,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2B7D)
-    (at 57 52.5)
+    (at 57 45.5)
     (path /610FBA1A)
     (fp_text reference LED22 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4811,7 +4811,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2B5D)
-    (at 57 33.5)
+    (at 57 26.5)
     (path /610E1BD3)
     (fp_text reference LED21 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4859,7 +4859,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2B3D)
-    (at 57 14.5)
+    (at 57 7.5)
     (path /610C1E9F)
     (fp_text reference LED20 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4907,7 +4907,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2B1D)
-    (at 38 71.5)
+    (at 85.5 71.5)
     (path /6111345A)
     (fp_text reference LED19 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -4955,7 +4955,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2AFD)
-    (at 38 52.5)
+    (at 38 45.5)
     (path /610FB9FB)
     (fp_text reference LED18 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -5003,7 +5003,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2ADD)
-    (at 38 33.5)
+    (at 38 26.5)
     (path /610E1BB4)
     (fp_text reference LED17 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -5051,7 +5051,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2ABD)
-    (at 38 14.5)
+    (at 38 7.5)
     (path /610C1E80)
     (fp_text reference LED16 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -5099,7 +5099,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2A9D)
-    (at 38 -4.5)
+    (at 38 -11.5)
     (path /610869EC)
     (fp_text reference LED15 (at -5 0.2 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -5147,7 +5147,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2A7D)
-    (at 19 71.5)
+    (at 66.5 71.5)
     (path /61113440)
     (fp_text reference LED14 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -5195,7 +5195,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2A5D)
-    (at 19 52.5)
+    (at 19 38.5)
     (path /610FB9E1)
     (fp_text reference LED13 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -5243,7 +5243,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2A3D)
-    (at 19 33.5)
+    (at 19 19.5)
     (path /610E1B9A)
     (fp_text reference LED12 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -5291,7 +5291,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD2A1D)
-    (at 19 14.5)
+    (at 19 0.5)
     (path /610A94F3)
     (fp_text reference LED11 (at -5 0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -5339,7 +5339,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD29FD)
-    (at 19 -4.5)
+    (at 19 -18.5)
     (path /61071F32)
     (fp_text reference LED10 (at -5 0.3 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -5387,7 +5387,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD29DD)
-    (at 0 71.5)
+    (at 47.5 71.5)
     (path /61113421)
     (fp_text reference LED9 (at -5 -0.3 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -5435,7 +5435,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD29BD)
-    (at 0 52.5)
+    (at 0 40.5)
     (path /610FB9C2)
     (fp_text reference LED8 (at -5 -0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -5483,7 +5483,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD299D)
-    (at 0 33.5)
+    (at 0 21.5)
     (path /610E1B7B)
     (fp_text reference LED7 (at -5 -0.25 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -5531,7 +5531,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD297D)
-    (at 0 14.5)
+    (at 0 2.5)
     (path /610A94D4)
     (fp_text reference LED6 (at 0.2 -11.2) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -5579,7 +5579,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD295D)
-    (at 0 -4.5)
+    (at 0 -16.5)
     (path /60C42F02)
     (fp_text reference LED5 (at -5 0 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -5627,7 +5627,7 @@
   )
 
   (module kbd:YS-SK6812MINI-E (layer B.Cu) (tedit 5F70BC98) (tstamp 60BD293D)
-    (at -19 71.5)
+    (at 28.5 71.5)
     (path /61113400)
     (fp_text reference LED4 (at -5 0 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -5819,7 +5819,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD289F)
-    (at 234.5 84.5 180)
+    (at 241.75 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3993)
@@ -5872,7 +5872,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2880)
-    (at 234.5 65.5 180)
+    (at 289.5 65.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA39A0)
@@ -5925,7 +5925,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2861)
-    (at 234.5 46.5 180)
+    (at 289.5 46.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA39AC)
@@ -5978,7 +5978,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2842)
-    (at 234.5 27.5 180)
+    (at 289.5 27.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA39B9)
@@ -6031,7 +6031,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2823)
-    (at 215.5 84.5 180)
+    (at 222.75 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3950)
@@ -6084,7 +6084,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2804)
-    (at 215.5 65.5 180)
+    (at 270.5 53.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA395D)
@@ -6137,7 +6137,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD27E5)
-    (at 215.5 46.5 180)
+    (at 270.5 34.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3969)
@@ -6190,7 +6190,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BEABC3)
-    (at 215.5 27.5 180)
+    (at 270.5 15.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3976)
@@ -6243,7 +6243,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD27A7)
-    (at 215.5 8.5 180)
+    (at 270.5 -3.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3988)
@@ -6296,7 +6296,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BEAA91)
-    (at 196.5 84.5 180)
+    (at 203.75 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A0A)
@@ -6349,7 +6349,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BEA9EF)
-    (at 196.5 65.5 180)
+    (at 251.5 51.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A17)
@@ -6402,7 +6402,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD274A)
-    (at 196.5 46.5 180)
+    (at 251.5 32.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A23)
@@ -6455,7 +6455,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD272B)
-    (at 196.5 27.5 180)
+    (at 251.5 13.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A30)
@@ -6508,7 +6508,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BEA7E4)
-    (at 196.5 8.5 180)
+    (at 251.5 -5.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A42)
@@ -6561,7 +6561,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD26ED)
-    (at 177.5 84.5 180)
+    (at 184.75 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA39CA)
@@ -6614,7 +6614,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BEA5B0)
-    (at 177.5 65.5 180)
+    (at 232.5 58.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA39D7)
@@ -6667,7 +6667,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD26AF)
-    (at 177.5 46.5 180)
+    (at 232.5 39.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA39E3)
@@ -6720,7 +6720,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2690)
-    (at 177.5 27.5 180)
+    (at 232.5 20.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA39F0)
@@ -6773,7 +6773,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2671)
-    (at 177.5 8.5 180)
+    (at 232.5 1.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA39FC)
@@ -6826,7 +6826,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2652)
-    (at 158.5 84.5 180)
+    (at 165.75 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A4D)
@@ -6879,7 +6879,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BEA1CC)
-    (at 158.5 65.5 180)
+    (at 213.5 58.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A5A)
@@ -6932,7 +6932,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BEA12A)
-    (at 158.5 46.5 180)
+    (at 213.5 39.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A66)
@@ -6985,7 +6985,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD25F5)
-    (at 158.5 27.5 180)
+    (at 213.5 20.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60DA3A73)
@@ -7038,7 +7038,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD25D6)
-    (at 61 84.5 180)
+    (at 108.5 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60C64B99)
@@ -7091,7 +7091,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BE9EC6)
-    (at 61 65.5 180)
+    (at 61 58.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60C5E904)
@@ -7144,7 +7144,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2598)
-    (at 61 46.5 180)
+    (at 61 39.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60C508CF)
@@ -7197,7 +7197,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2579)
-    (at 61 27.5 180)
+    (at 61 20.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60C508BF)
@@ -7250,7 +7250,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD255A)
-    (at 42 84.5 180)
+    (at 89.5 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CC0156)
@@ -7303,7 +7303,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD253B)
-    (at 42 65.5 180)
+    (at 42 58.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CC0149)
@@ -7356,7 +7356,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD251C)
-    (at 42 46.5 180)
+    (at 42 39.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CC013D)
@@ -7409,7 +7409,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD24FD)
-    (at 42 27.5 180)
+    (at 42 20.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CC0130)
@@ -7462,7 +7462,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD24DE)
-    (at 42 8.5 180)
+    (at 42 1.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CC011E)
@@ -7515,7 +7515,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD24BF)
-    (at 23 84.5 180)
+    (at 70.5 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD5368)
@@ -7568,7 +7568,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD24A0)
-    (at 23 65.5 180)
+    (at 23 51.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD5375)
@@ -7621,7 +7621,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2481)
-    (at 23 46.5 180)
+    (at 23 32.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD5381)
@@ -7674,7 +7674,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BE9A33)
-    (at 23 27.5 180)
+    (at 23 13.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD538E)
@@ -7727,7 +7727,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BE9991)
-    (at 23 8.5 180)
+    (at 23 -5.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD53A0)
@@ -7780,7 +7780,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2424)
-    (at 4 84.5 180)
+    (at 51.5 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD5322)
@@ -7833,7 +7833,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2405)
-    (at 4 65.5 180)
+    (at 4 53.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD532F)
@@ -7886,7 +7886,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD23E6)
-    (at 4 46.5 180)
+    (at 4 34.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD533B)
@@ -7939,7 +7939,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD23C7)
-    (at 4 27.5 180)
+    (at 4 15.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD5348)
@@ -7992,7 +7992,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BE9649)
-    (at 4 8.5 180)
+    (at 4 -3.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CD535A)
@@ -8045,7 +8045,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 60BD2389)
-    (at -15 84.5 180)
+    (at 32.5 84.5 180)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /60CE096A)
@@ -8257,7 +8257,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD230D)
-    (at 232.5 68 180)
+    (at 239.75 68 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /6118FB20)
@@ -8296,7 +8296,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD22F8)
-    (at 232.5 49 180)
+    (at 287.5 49 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /6117AE6B)
@@ -8335,7 +8335,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD22E3)
-    (at 233 30 180)
+    (at 288 30 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /61159A60)
@@ -8374,7 +8374,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD22CE)
-    (at 232 11.5 180)
+    (at 287 11.5 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /611439EB)
@@ -8413,7 +8413,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD22B9)
-    (at 214 68 180)
+    (at 221.25 68 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /6118FB07)
@@ -8452,7 +8452,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD22A4)
-    (at 213.5 49 180)
+    (at 268.5 37 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /6117AE52)
@@ -8491,7 +8491,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD228F)
-    (at 213.5 30 180)
+    (at 268.5 18 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /61159A47)
@@ -8530,7 +8530,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD227A)
-    (at 213.5 11.5 180)
+    (at 268.5 -0.5 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /611439D2)
@@ -8569,7 +8569,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD2265)
-    (at 214 -8 180)
+    (at 269 -20 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /611C4A75)
@@ -8608,7 +8608,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD2250)
-    (at 194 68 180)
+    (at 201.25 68 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /6118FAE7)
@@ -8647,7 +8647,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD223B)
-    (at 194 49 180)
+    (at 249 35 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /6117AE32)
@@ -8686,7 +8686,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD2226)
-    (at 194 30.5 180)
+    (at 249 16.5 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /61159A27)
@@ -8725,7 +8725,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD2211)
-    (at 194.5 11 180)
+    (at 249.5 -3 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /611439B2)
@@ -8764,7 +8764,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD21FC)
-    (at 194.5 -8 180)
+    (at 249.5 -22 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /611C4A5C)
@@ -8803,7 +8803,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD21E7)
-    (at 175.5 68 180)
+    (at 182.75 68 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /6118FACE)
@@ -8842,7 +8842,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD21D2)
-    (at 175.5 49 180)
+    (at 230.5 42 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /6117AE19)
@@ -8881,7 +8881,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD21BD)
-    (at 175.5 30.5 180)
+    (at 230.5 23.5 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /61159A0E)
@@ -8920,7 +8920,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD21A8)
-    (at 175.5 11 180)
+    (at 230.5 4 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /61143999)
@@ -8959,7 +8959,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD2193)
-    (at 176 -8.05 180)
+    (at 231 -15.05 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /611C4A3D)
@@ -8998,7 +8998,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD217E)
-    (at 156.5 68 180)
+    (at 163.75 68 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /6118FAAF)
@@ -9037,7 +9037,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD2169)
-    (at 156.5 49 180)
+    (at 211.5 42 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /6117ADFA)
@@ -9076,7 +9076,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD2154)
-    (at 157 30 180)
+    (at 212 23 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /611599EF)
@@ -9115,7 +9115,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD213F)
-    (at 157 11 180)
+    (at 212 4 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /6114397A)
@@ -9154,7 +9154,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD212A)
-    (at 59 68 180)
+    (at 106.5 68 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /6111348C)
@@ -9193,7 +9193,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD2115)
-    (at 58.5 49 180)
+    (at 58.5 42 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /610FBA2D)
@@ -9232,7 +9232,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD2100)
-    (at 59 30.5 180)
+    (at 59 23.5 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /610E1BE6)
@@ -9271,7 +9271,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD20EB)
-    (at 59.5 11 180)
+    (at 59.5 4 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /610C1EB2)
@@ -9310,7 +9310,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD20D6)
-    (at 40 68 180)
+    (at 87.5 68 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /61113473)
@@ -9349,7 +9349,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD20C1)
-    (at 40 49 180)
+    (at 40 42 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /610FBA14)
@@ -9388,7 +9388,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD20AC)
-    (at 39.5 30 180)
+    (at 39.5 23 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /610E1BCD)
@@ -9427,7 +9427,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD2097)
-    (at 39.5 11.5 180)
+    (at 39.5 4.5 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /610C1E99)
@@ -9466,7 +9466,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD2082)
-    (at 39.5 -8 180)
+    (at 39.5 -15 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /61086A05)
@@ -9505,7 +9505,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD206D)
-    (at 21 68 180)
+    (at 68.5 68 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /61113453)
@@ -9544,7 +9544,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD2058)
-    (at 21 49.5 180)
+    (at 21 35.5 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /610FB9F4)
@@ -9583,7 +9583,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD2043)
-    (at 21 30 180)
+    (at 21 16 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /610E1BAD)
@@ -9622,7 +9622,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD202E)
-    (at 21 11.5 180)
+    (at 21 -2.5 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /610A9506)
@@ -9661,7 +9661,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD2019)
-    (at 21 -8 180)
+    (at 21 -22 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /61071F4B)
@@ -9700,7 +9700,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD2004)
-    (at 1.5 68 180)
+    (at 49 68 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /6111343A)
@@ -9739,7 +9739,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD1FEF)
-    (at 2 49.5 180)
+    (at 2 37.5 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /610FB9DB)
@@ -9778,7 +9778,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD1FDA)
-    (at 2 30.5 180)
+    (at 2 18.5 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /610E1B94)
@@ -9817,7 +9817,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD1FC5)
-    (at 2.5 11 180)
+    (at 2.5 -1 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /610A94ED)
@@ -9856,7 +9856,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD1FB0)
-    (at 2.5 -8 180)
+    (at 2.5 -20 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /60C42F14)
@@ -9895,7 +9895,7 @@
   )
 
   (module Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm (layer B.Cu) (tedit 5AE50EF0) (tstamp 60BD1F9B)
-    (at -16.5 68 180)
+    (at 31 68 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (path /6111341B)
