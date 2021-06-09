@@ -1588,7 +1588,7 @@ F 3 "" H 16600 3375 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	16600 3750 16600 3675
-Text Label 15925 3750 0    50   ~ 0
+Text Label 15925 3650 0    50   ~ 0
 lSCL
 Text Label 17800 2250 2    50   ~ 0
 rSDA
@@ -1674,9 +1674,9 @@ Wire Wire Line
 	18100 3750 18825 3750
 Wire Wire Line
 	18100 3650 18525 3650
-Text Label 18100 3650 0    50   ~ 0
-rSDA
 Text Label 18100 3750 0    50   ~ 0
+rSDA
+Text Label 18100 3650 0    50   ~ 0
 rSCL
 Text Label 2100 7000 2    50   ~ 0
 lLED
@@ -4448,7 +4448,7 @@ F 3 "~" H 16300 3500 50  0001 C CNN
 	1    16300 3500
 	-1   0    0    1   
 $EndComp
-Text Label 15925 3650 0    50   ~ 0
+Text Label 15925 3750 0    50   ~ 0
 lSDA
 $Comp
 L power:+5V #PWR0128
