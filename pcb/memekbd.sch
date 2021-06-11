@@ -4479,4 +4479,290 @@ Wire Wire Line
 	13000 10000 13000 11500
 Wire Wire Line
 	8000 11500 8000 13000
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 616435D9
+P 15275 7975
+F 0 "H1" H 15375 8021 50  0000 L CNN
+F 1 "MountingHole" H 15375 7930 50  0000 L CNN
+F 2 "MountingHole:MountingHole_5.3mm_M5_ISO7380" H 15275 7975 50  0001 C CNN
+F 3 "~" H 15275 7975 50  0001 C CNN
+	1    15275 7975
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 61652C8C
+P 15275 8225
+F 0 "H2" H 15375 8271 50  0000 L CNN
+F 1 "MountingHole" H 15375 8180 50  0000 L CNN
+F 2 "MountingHole:MountingHole_5.3mm_M5_ISO7380" H 15275 8225 50  0001 C CNN
+F 3 "~" H 15275 8225 50  0001 C CNN
+	1    15275 8225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 616590F7
+P 15275 8475
+F 0 "H3" H 15375 8521 50  0000 L CNN
+F 1 "MountingHole" H 15375 8430 50  0000 L CNN
+F 2 "MountingHole:MountingHole_5.3mm_M5_ISO7380" H 15275 8475 50  0001 C CNN
+F 3 "~" H 15275 8475 50  0001 C CNN
+	1    15275 8475
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 6165F55E
+P 15275 8725
+F 0 "H4" H 15375 8771 50  0000 L CNN
+F 1 "MountingHole" H 15375 8680 50  0000 L CNN
+F 2 "MountingHole:MountingHole_5.3mm_M5_ISO7380" H 15275 8725 50  0001 C CNN
+F 3 "~" H 15275 8725 50  0001 C CNN
+	1    15275 8725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 616659B7
+P 15275 9225
+F 0 "H5" H 15375 9271 50  0000 L CNN
+F 1 "MountingHole" H 15375 9180 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 15275 9225 50  0001 C CNN
+F 3 "~" H 15275 9225 50  0001 C CNN
+	1    15275 9225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 6166BE18
+P 15275 9475
+F 0 "H6" H 15375 9521 50  0000 L CNN
+F 1 "MountingHole" H 15375 9430 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 15275 9475 50  0001 C CNN
+F 3 "~" H 15275 9475 50  0001 C CNN
+	1    15275 9475
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 61672281
+P 15275 9725
+F 0 "H7" H 15375 9771 50  0000 L CNN
+F 1 "MountingHole" H 15375 9680 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 15275 9725 50  0001 C CNN
+F 3 "~" H 15275 9725 50  0001 C CNN
+	1    15275 9725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H8
+U 1 1 616786F2
+P 15275 9975
+F 0 "H8" H 15375 10021 50  0000 L CNN
+F 1 "MountingHole" H 15375 9930 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 15275 9975 50  0001 C CNN
+F 3 "~" H 15275 9975 50  0001 C CNN
+	1    15275 9975
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H9
+U 1 1 6167EB6B
+P 15275 10225
+F 0 "H9" H 15375 10271 50  0000 L CNN
+F 1 "MountingHole" H 15375 10180 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 15275 10225 50  0001 C CNN
+F 3 "~" H 15275 10225 50  0001 C CNN
+	1    15275 10225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H10
+U 1 1 616BCA9B
+P 15275 10475
+F 0 "H10" H 15375 10521 50  0000 L CNN
+F 1 "MountingHole" H 15375 10430 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 15275 10475 50  0001 C CNN
+F 3 "~" H 15275 10475 50  0001 C CNN
+	1    15275 10475
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H11
+U 1 1 616BCAA1
+P 15275 10725
+F 0 "H11" H 15375 10771 50  0000 L CNN
+F 1 "MountingHole" H 15375 10680 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 15275 10725 50  0001 C CNN
+F 3 "~" H 15275 10725 50  0001 C CNN
+	1    15275 10725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H12
+U 1 1 616BCAA7
+P 15275 10975
+F 0 "H12" H 15375 11021 50  0000 L CNN
+F 1 "MountingHole" H 15375 10930 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 15275 10975 50  0001 C CNN
+F 3 "~" H 15275 10975 50  0001 C CNN
+	1    15275 10975
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H13
+U 1 1 616BCAAD
+P 15275 11225
+F 0 "H13" H 15375 11271 50  0000 L CNN
+F 1 "MountingHole" H 15375 11180 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 15275 11225 50  0001 C CNN
+F 3 "~" H 15275 11225 50  0001 C CNN
+	1    15275 11225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H14
+U 1 1 6172B936
+P 17525 7975
+F 0 "H14" H 17625 8021 50  0000 L CNN
+F 1 "MountingHole" H 17625 7930 50  0000 L CNN
+F 2 "MountingHole:MountingHole_5.3mm_M5_ISO7380" H 17525 7975 50  0001 C CNN
+F 3 "~" H 17525 7975 50  0001 C CNN
+	1    17525 7975
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H15
+U 1 1 6172B93C
+P 17525 8225
+F 0 "H15" H 17625 8271 50  0000 L CNN
+F 1 "MountingHole" H 17625 8180 50  0000 L CNN
+F 2 "MountingHole:MountingHole_5.3mm_M5_ISO7380" H 17525 8225 50  0001 C CNN
+F 3 "~" H 17525 8225 50  0001 C CNN
+	1    17525 8225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H16
+U 1 1 6172B942
+P 17525 8475
+F 0 "H16" H 17625 8521 50  0000 L CNN
+F 1 "MountingHole" H 17625 8430 50  0000 L CNN
+F 2 "MountingHole:MountingHole_5.3mm_M5_ISO7380" H 17525 8475 50  0001 C CNN
+F 3 "~" H 17525 8475 50  0001 C CNN
+	1    17525 8475
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H17
+U 1 1 6172B948
+P 17525 8725
+F 0 "H17" H 17625 8771 50  0000 L CNN
+F 1 "MountingHole" H 17625 8680 50  0000 L CNN
+F 2 "MountingHole:MountingHole_5.3mm_M5_ISO7380" H 17525 8725 50  0001 C CNN
+F 3 "~" H 17525 8725 50  0001 C CNN
+	1    17525 8725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H18
+U 1 1 6172B94E
+P 17525 9225
+F 0 "H18" H 17625 9271 50  0000 L CNN
+F 1 "MountingHole" H 17625 9180 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 17525 9225 50  0001 C CNN
+F 3 "~" H 17525 9225 50  0001 C CNN
+	1    17525 9225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H19
+U 1 1 6172B954
+P 17525 9475
+F 0 "H19" H 17625 9521 50  0000 L CNN
+F 1 "MountingHole" H 17625 9430 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 17525 9475 50  0001 C CNN
+F 3 "~" H 17525 9475 50  0001 C CNN
+	1    17525 9475
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H20
+U 1 1 6172B95A
+P 17525 9725
+F 0 "H20" H 17625 9771 50  0000 L CNN
+F 1 "MountingHole" H 17625 9680 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 17525 9725 50  0001 C CNN
+F 3 "~" H 17525 9725 50  0001 C CNN
+	1    17525 9725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H21
+U 1 1 6172B960
+P 17525 9975
+F 0 "H21" H 17625 10021 50  0000 L CNN
+F 1 "MountingHole" H 17625 9930 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 17525 9975 50  0001 C CNN
+F 3 "~" H 17525 9975 50  0001 C CNN
+	1    17525 9975
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H22
+U 1 1 6172B966
+P 17525 10225
+F 0 "H22" H 17625 10271 50  0000 L CNN
+F 1 "MountingHole" H 17625 10180 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 17525 10225 50  0001 C CNN
+F 3 "~" H 17525 10225 50  0001 C CNN
+	1    17525 10225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H23
+U 1 1 6172B96C
+P 17525 10475
+F 0 "H23" H 17625 10521 50  0000 L CNN
+F 1 "MountingHole" H 17625 10430 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 17525 10475 50  0001 C CNN
+F 3 "~" H 17525 10475 50  0001 C CNN
+	1    17525 10475
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H24
+U 1 1 6172B972
+P 17525 10725
+F 0 "H24" H 17625 10771 50  0000 L CNN
+F 1 "MountingHole" H 17625 10680 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 17525 10725 50  0001 C CNN
+F 3 "~" H 17525 10725 50  0001 C CNN
+	1    17525 10725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H25
+U 1 1 6172B978
+P 17525 10975
+F 0 "H25" H 17625 11021 50  0000 L CNN
+F 1 "MountingHole" H 17625 10930 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 17525 10975 50  0001 C CNN
+F 3 "~" H 17525 10975 50  0001 C CNN
+	1    17525 10975
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H26
+U 1 1 6172B97E
+P 17525 11225
+F 0 "H26" H 17625 11271 50  0000 L CNN
+F 1 "MountingHole" H 17625 11180 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 17525 11225 50  0001 C CNN
+F 3 "~" H 17525 11225 50  0001 C CNN
+	1    17525 11225
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
