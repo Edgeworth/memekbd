@@ -1361,15 +1361,7 @@ Wire Wire Line
 Wire Wire Line
 	4100 8500 4500 8500
 Wire Wire Line
-	6100 8500 6500 8500
-Wire Wire Line
-	6100 10000 6500 10000
-Wire Wire Line
 	8600 7000 9000 7000
-Wire Wire Line
-	12600 10000 13000 10000
-Wire Wire Line
-	12600 11500 13000 11500
 NoConn ~ 12600 13000
 $Comp
 L kbd:ProMicro U1
@@ -1621,7 +1613,7 @@ Text Label 18100 3750 0    50   ~ 0
 rSDA
 Text Label 18100 3650 0    50   ~ 0
 rSCL
-Text Label 6100 7000 0    50   ~ 0
+Text Label 1700 7000 2    50   ~ 0
 lLED
 Text Label 8300 7000 2    50   ~ 0
 rLED
@@ -1724,8 +1716,6 @@ F 3 "" H 15550 5150 50  0001 C CNN
 	1    15550 5150
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	12600 8500 13000 8500
 $Comp
 L power:GND #PWR023
 U 1 1 61031C35
@@ -4433,13 +4423,13 @@ $EndComp
 $Comp
 L Device:R R5
 U 1 1 60E55CD7
-P 5950 7000
-F 0 "R5" V 5743 7000 50  0000 C CNN
-F 1 "1k" V 5834 7000 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 5880 7000 50  0001 C CNN
-F 3 "~" H 5950 7000 50  0001 C CNN
-	1    5950 7000
-	0    -1   -1   0   
+P 1850 7000
+F 0 "R5" V 1643 7000 50  0000 C CNN
+F 1 "1k" V 1734 7000 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 1780 7000 50  0001 C CNN
+F 3 "~" H 1850 7000 50  0001 C CNN
+	1    1850 7000
+	0    1    1    0   
 $EndComp
 $Comp
 L Device:R R6
@@ -4452,33 +4442,6 @@ F 3 "~" H 8450 7000 50  0001 C CNN
 	1    8450 7000
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	5800 7000 5100 7000
-Wire Wire Line
-	2500 7000 1500 7000
-Wire Wire Line
-	1500 7000 1500 8500
-Wire Wire Line
-	6500 8500 6500 10000
-Wire Wire Line
-	1500 10000 1500 11500
-NoConn ~ 1500 13000
-Wire Wire Line
-	6250 11500 6250 13000
-Wire Wire Line
-	6250 13000 6100 13000
-Wire Wire Line
-	6100 11500 6250 11500
-Wire Wire Line
-	13000 7000 13000 8500
-Wire Wire Line
-	11600 7000 13000 7000
-Wire Wire Line
-	8000 8500 8000 10000
-Wire Wire Line
-	13000 10000 13000 11500
-Wire Wire Line
-	8000 11500 8000 13000
 $Comp
 L Mechanical:MountingHole H1
 U 1 1 616435D9
@@ -4765,4 +4728,55 @@ F 3 "~" H 17525 11225 50  0001 C CNN
 	1    17525 11225
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	2000 7000 2500 7000
+Wire Wire Line
+	5100 7000 5100 7750
+Wire Wire Line
+	5100 7750 1500 7750
+Wire Wire Line
+	1500 7750 1500 8500
+Wire Wire Line
+	6100 8500 6100 9375
+Wire Wire Line
+	6100 9375 1500 9375
+Wire Wire Line
+	1500 9375 1500 10000
+Wire Wire Line
+	6100 10000 6100 10725
+Wire Wire Line
+	6100 10725 1500 10725
+Wire Wire Line
+	1500 10725 1500 11500
+Wire Wire Line
+	6100 11500 6100 12200
+Wire Wire Line
+	6100 12200 1500 12200
+Wire Wire Line
+	1500 12200 1500 13000
+NoConn ~ 6100 13000
+Wire Wire Line
+	11600 7000 11600 8025
+Wire Wire Line
+	11600 8025 8000 8025
+Wire Wire Line
+	8000 8025 8000 8500
+Wire Wire Line
+	12600 8500 12600 9300
+Wire Wire Line
+	12600 9300 8000 9300
+Wire Wire Line
+	8000 9300 8000 10000
+Wire Wire Line
+	12600 10000 12600 10725
+Wire Wire Line
+	12600 10725 8000 10725
+Wire Wire Line
+	8000 10725 8000 11500
+Wire Wire Line
+	12600 11500 12600 12250
+Wire Wire Line
+	12600 12250 8000 12250
+Wire Wire Line
+	8000 12250 8000 13000
 $EndSCHEMATC
