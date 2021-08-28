@@ -1,3 +1,11 @@
+## Planned changes:
+1. Use micro USB instead of TRRS -> schem done; pcb TODO
+2. Move little holes connecting plates to not be directly next to switch socket
+   pads -> PCB TODO
+3. Move LEDs to bottom (since look from bottom) (rotate switches around)
+4. Drill holes in bottom of PBT key caps
+5. Shape changes?
+
 ## Parts list
 
 - PCB (1.6mm)
@@ -8,8 +16,8 @@
 - 46x gateron clear
 - 46x switch socket
 - 46x 1N4148
-- TRRS cable
-- 2xTRRS jack PJ320D
+- Male-male micro USB cable
+- 2x micro usb socket (through hole)
 - 4xM5 100mm bolt for tenting (inner)
 - 4xM5 50mm  bolt for tenting (outer)
 - 16xM5 nuts
