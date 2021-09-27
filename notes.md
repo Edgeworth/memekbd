@@ -7,7 +7,7 @@
 6. tenting from top?
 7. reposition top 3 keys to reduce AABB size?
 8. Keepouts around all screw locations - just switch it to use plated through
-   holes.
+   holes
 
 ## Changelog v0.2
 - Use micro USB instead of TRRS
