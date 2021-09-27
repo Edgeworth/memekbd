@@ -1,8 +1,5 @@
 ## Planned changes:
-
-
-3. Move LEDs to bottom (since look from bottom) (rotate switches around)
-4. Drill holes in bottom of PBT key caps
+4. Drill holes in bottom of PBT key caps or get translucent keys
 5. Shape changes? - thumb cluster etc
 6. tenting from top?
 7. reposition top 3 keys to reduce AABB size?
@@ -15,6 +12,7 @@
   pads
 - Move diodes slightly
 - Moved location of holes - need to respin bottom and top plates.
+- Move LEDs to bottom (since look from bottom) (rotate switches around)
 
 ## Parts list
 
