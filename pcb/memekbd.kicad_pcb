@@ -458,7 +458,7 @@
 
   (footprint "kbd:CherryMX_Hotswap" (layer "F.Cu")
     (tedit 614C44E4) (tstamp 00000000-0000-0000-0000-000060bd3371)
-    (at 305.97 144.425)
+    (at 306 144.5)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-000060da3aa4")
@@ -706,7 +706,7 @@
 
   (footprint "kbd:CherryMX_Hotswap" (layer "F.Cu")
     (tedit 614C44E4) (tstamp 00000000-0000-0000-0000-000060bd3443)
-    (at 328.925 144.25)
+    (at 329 144.25)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-000060da3a3c")
@@ -954,7 +954,7 @@
 
   (footprint "kbd:CherryMX_Hotswap" (layer "F.Cu")
     (tedit 614C44E4) (tstamp 00000000-0000-0000-0000-000060bd3515)
-    (at 351.25 144.475)
+    (at 351.25 144.5)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-000060da3982")
@@ -1708,7 +1708,7 @@
 
   (footprint "kbd:CherryMX_Hotswap" (layer "F.Cu")
     (tedit 614C44E4) (tstamp 00000000-0000-0000-0000-000060bfb574)
-    (at 263.253399 115.25 -15)
+    (at 263.25 115.25 -15)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-000060da3956")
@@ -2004,7 +2004,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 00000000-0000-0000-0000-000060c35592)
-    (at 250 30.13 -90)
+    (at 250 30.25 -90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -2344,7 +2344,7 @@
 
   (footprint "kbd:CherryMX_Hotswap" (layer "F.Cu")
     (tedit 614C44E4) (tstamp 00000000-0000-0000-0000-000060d6f245)
-    (at 100.500001 110.25)
+    (at 100.5 110.25)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-000060cd536e")
@@ -2406,7 +2406,7 @@
 
   (footprint "kbd:CherryMX_Hotswap" (layer "F.Cu")
     (tedit 614C44E4) (tstamp 00000000-0000-0000-0000-000060d6f26e)
-    (at 81.497515 110.249999)
+    (at 81.5 110.25)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-000060cd5328")
@@ -2530,7 +2530,7 @@
 
   (footprint "kbd:CherryMX_Hotswap" (layer "F.Cu")
     (tedit 614C44E4) (tstamp 00000000-0000-0000-0000-000060d6f380)
-    (at 119.478108 110.25)
+    (at 119.5 110.25)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-000060cc0150")
@@ -2654,7 +2654,7 @@
 
   (footprint "kbd:CherryMX_Hotswap" (layer "F.Cu")
     (tedit 614C44E4) (tstamp 00000000-0000-0000-0000-000060d6f40f)
-    (at 24.56 129.185)
+    (at 24.5 129.25)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-000060cd5354")
@@ -2716,7 +2716,7 @@
 
   (footprint "kbd:CherryMX_Hotswap" (layer "F.Cu")
     (tedit 614C44E4) (tstamp 00000000-0000-0000-0000-000060d6f45a)
-    (at 62.5 103.239427)
+    (at 62.5 103.25)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-000060ce0970")
@@ -2778,7 +2778,7 @@
 
   (footprint "kbd:CherryMX_Hotswap" (layer "F.Cu")
     (tedit 614C44E4) (tstamp 00000000-0000-0000-0000-000060d6f483)
-    (at 43.56 129.185)
+    (at 43.5 129.25)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-000060cc0124")
@@ -3336,7 +3336,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tedit 5AE5139B) (tstamp 00000000-0000-0000-0000-000060d6f9f1)
-    (at 32.1 41.48 -90)
+    (at 32 41.5 -90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -3818,7 +3818,7 @@
 
   (footprint "kbd:CherryMX_Hotswap" (layer "F.Cu")
     (tedit 614C44E4) (tstamp 00000000-0000-0000-0000-000060d70010)
-    (at 43.56 110.185)
+    (at 43.5 110.25)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-000060cd539a")
@@ -3989,7 +3989,7 @@
 
   (footprint "kbd:CherryMX_Hotswap" (layer "F.Cu")
     (tedit 614C44E4) (tstamp 2fbc2307-db45-4b9a-965c-c62e2c3f2446)
-    (at 62.56 129.185)
+    (at 62.5 129.25)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/f5e2a025-c594-49d3-8af0-c7c1dc500ba4")
@@ -4213,7 +4213,7 @@
 
   (footprint "Connector_USB:USB_Micro-B_Wuerth_629105150521" (layer "F.Cu")
     (tedit 5A142044) (tstamp 8a2c317e-2efd-4bb3-99af-29b419f81de3)
-    (at 124.495 82.005 90)
+    (at 124.5 82 90)
     (descr "USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf")
     (tags "usb micro receptacle")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4403,7 +4403,7 @@
 
   (footprint "kbd:CherryMX_Hotswap" (layer "F.Cu")
     (tedit 614C44E4) (tstamp cb68a79e-84e8-4029-a86c-60022ab04175)
-    (at 372.415 144.665)
+    (at 372.5 144.75)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/c2162f42-06b4-4522-8652-8bef2ae1149b")
@@ -4738,7 +4738,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060bd217e)
-    (at 210.969962 144.571068 45)
+    (at 211 144.5 45)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4784,7 +4784,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060bd2193)
-    (at 303.47 152.475)
+    (at 303.5 152.5)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4968,7 +4968,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060bd21e7)
-    (at 224.017949 130.428203 30)
+    (at 224 130.5 30)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -5014,7 +5014,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060bd21fc)
-    (at 326.925 152.25)
+    (at 327 152.25)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -5244,7 +5244,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060bd2265)
-    (at 348.75 152.475)
+    (at 348.75 152.5)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -5428,7 +5428,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060bd22b9)
-    (at 258.768032 122.330359 -15)
+    (at 258.75 122.25 -15)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -5674,7 +5674,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "B.Cu")
     (tedit 5AE50CD5) (tstamp 00000000-0000-0000-0000-000060bd2652)
-    (at 197.888487 134.944076 45)
+    (at 198 135 45)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -5736,7 +5736,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "B.Cu")
     (tedit 5AE50CD5) (tstamp 00000000-0000-0000-0000-000060bd2671)
-    (at 301.97 136.425)
+    (at 302 136.5)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -5922,7 +5922,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "B.Cu")
     (tedit 5AE50CD5) (tstamp 00000000-0000-0000-0000-000060bd26ed)
-    (at 214.450443 117.405 30)
+    (at 214.5 117.5 30)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -6108,7 +6108,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "B.Cu")
     (tedit 5AE50CD5) (tstamp 00000000-0000-0000-0000-000060bd27a7)
-    (at 347.25 136.475)
+    (at 347.25 136.5)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -6294,7 +6294,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "B.Cu")
     (tedit 5AE50CD5) (tstamp 00000000-0000-0000-0000-000060bd2823)
-    (at 261.589658 106.513899 -15)
+    (at 261.5 106.5 -15)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -6704,7 +6704,7 @@
 
   (footprint "kbd:YS-SK6812MINI-E" (layer "B.Cu")
     (tedit 5F70BC98) (tstamp 00000000-0000-0000-0000-000060bd2c1d)
-    (at 209.909302 140.681981 -135)
+    (at 210 140.75 -135)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006118fa94")
@@ -6758,7 +6758,7 @@
 
   (footprint "kbd:YS-SK6812MINI-E" (layer "B.Cu")
     (tedit 5F70BC98) (tstamp 00000000-0000-0000-0000-000060bd2c3d)
-    (at 305.97 148.925 180)
+    (at 306 149 180)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-0000611c4a22")
@@ -6974,7 +6974,7 @@
 
   (footprint "kbd:YS-SK6812MINI-E" (layer "B.Cu")
     (tedit 5F70BC98) (tstamp 00000000-0000-0000-0000-000060bd2cbd)
-    (at 224 126.397114 -150)
+    (at 224 126.5 -150)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006118fab5")
@@ -7028,7 +7028,7 @@
 
   (footprint "kbd:YS-SK6812MINI-E" (layer "B.Cu")
     (tedit 5F70BC98) (tstamp 00000000-0000-0000-0000-000060bd2cdd)
-    (at 328.925 148.75 180)
+    (at 329 148.75 180)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-0000611c4a43")
@@ -7298,7 +7298,7 @@
 
   (footprint "kbd:YS-SK6812MINI-E" (layer "B.Cu")
     (tedit 5F70BC98) (tstamp 00000000-0000-0000-0000-000060bd2d7d)
-    (at 351.25 148.975 180)
+    (at 351.25 149 180)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-0000611c4a62")
@@ -7514,7 +7514,7 @@
 
   (footprint "kbd:YS-SK6812MINI-E" (layer "B.Cu")
     (tedit 5F70BC98) (tstamp 00000000-0000-0000-0000-000060bd2dfd)
-    (at 262.088713 119.596666 165)
+    (at 262 119.5 165)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006118faee")
@@ -7916,7 +7916,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "B.Cu")
     (tedit 5AE50CD5) (tstamp 00000000-0000-0000-0000-000060bea7e4)
-    (at 324.925 136.25)
+    (at 325 136.25)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -8164,7 +8164,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060bfc66a)
-    (at 278.767949 123.678203 -30)
+    (at 278.75 123.75 -30)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -8210,7 +8210,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "B.Cu")
     (tedit 5AE50CD5) (tstamp 00000000-0000-0000-0000-000060bfc6b0)
-    (at 285.285898 108.845 -30)
+    (at 285.25 108.75 -30)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -8272,7 +8272,7 @@
 
   (footprint "kbd:YS-SK6812MINI-E" (layer "B.Cu")
     (tedit 5F70BC98) (tstamp 00000000-0000-0000-0000-000060bfc70b)
-    (at 282.25 121.647114 150)
+    (at 282.25 121.75 150)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006118fb0d")
@@ -8496,7 +8496,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f149)
-    (at 59.999999 111.249999)
+    (at 60 111.25)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -8542,7 +8542,7 @@
 
   (footprint "kbd:YS-SK6812MINI-E" (layer "B.Cu")
     (tedit 5F70BC98) (tstamp 00000000-0000-0000-0000-000060d6f15d)
-    (at 24.56 133.685 180)
+    (at 24.5 133.75 180)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-000060c42f02")
@@ -8596,7 +8596,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f17c)
-    (at 41.56 118.185)
+    (at 41.5 118.25)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -8642,7 +8642,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "B.Cu")
     (tedit 5AE50CD5) (tstamp 00000000-0000-0000-0000-000060d6f1ea)
-    (at 58.724971 95.189427)
+    (at 58.75 95.25)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -9266,7 +9266,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "B.Cu")
     (tedit 5AE50CD5) (tstamp 00000000-0000-0000-0000-000060d6f4ac)
-    (at 125.455912 121.205913)
+    (at 125.5 121.25)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -9698,7 +9698,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "B.Cu")
     (tedit 5AE50CD5) (tstamp 00000000-0000-0000-0000-000060d6f5ab)
-    (at 39.56 102.185)
+    (at 39.5 102.25)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -9860,7 +9860,7 @@
 
   (footprint "kbd:YS-SK6812MINI-E" (layer "B.Cu")
     (tedit 5F70BC98) (tstamp 00000000-0000-0000-0000-000060d6f603)
-    (at 43.56 114.685 180)
+    (at 43.5 114.75 180)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-000061071f32")
@@ -9960,7 +9960,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f63d)
-    (at 117.5 118.354905)
+    (at 117.5 118.25)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -10206,7 +10206,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "B.Cu")
     (tedit 5AE50CD5) (tstamp 00000000-0000-0000-0000-000060d6f6e0)
-    (at 20.56 121.185)
+    (at 20.5 121.25)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -10538,7 +10538,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f7b1)
-    (at 22.06 137.185)
+    (at 22 137.25)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -10584,7 +10584,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "B.Cu")
     (tedit 5AE50CD5) (tstamp 00000000-0000-0000-0000-000060d6f7db)
-    (at 77.522515 102.18173)
+    (at 77.5 102.25)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -10824,7 +10824,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "B.Cu")
     (tedit 5AE50CD5) (tstamp 00000000-0000-0000-0000-000060d6f85b)
-    (at 39.56 121.185)
+    (at 39.5 121.25)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -11202,7 +11202,7 @@
 
   (footprint "kbd:YS-SK6812MINI-E" (layer "B.Cu")
     (tedit 5F70BC98) (tstamp 00000000-0000-0000-0000-000060d6f979)
-    (at 119.5 114.854905 180)
+    (at 119.5 114.75 180)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-00006111345a")
@@ -11682,7 +11682,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "B.Cu")
     (tedit 5AE50CD5) (tstamp 00000000-0000-0000-0000-000060d6ff99)
-    (at 115.728108 102.25)
+    (at 115.75 102.25)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -11852,7 +11852,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6fff5)
-    (at 42.06 137.185)
+    (at 42 137.25)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -11944,7 +11944,7 @@
 
   (footprint "kbd:YS-SK6812MINI-E" (layer "B.Cu")
     (tedit 5F70BC98) (tstamp 00000000-0000-0000-0000-000060d7004d)
-    (at 43.56 133.685 180)
+    (at 43.5 133.75 180)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/00000000-0000-0000-0000-0000610869ec")
@@ -12106,7 +12106,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "B.Cu")
     (tedit 5AE50CD5) (tstamp 41ecc0ca-d72a-486c-a1ce-d4727e820bfe)
-    (at 369.25 136.6)
+    (at 369.25 136.5)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -12168,7 +12168,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "B.Cu")
     (tedit 5AE50CD5) (tstamp 777ecf2d-e594-4b41-807e-ca9694909ee0)
-    (at 58.925 121)
+    (at 59 121)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -12230,7 +12230,7 @@
 
   (footprint "kbd:YS-SK6812MINI-E" (layer "B.Cu")
     (tedit 5F70BC98) (tstamp 8c63aa09-4cf4-49b8-a441-6fe4c59cd233)
-    (at 62.56 133.685 180)
+    (at 62.5 133.75 180)
     (property "Sheetfile" "memekbd.kicad_sch")
     (property "Sheetname" "")
     (path "/45709c45-81e6-43b7-902c-e087c008631e")
@@ -12330,7 +12330,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp e5948e39-f625-4c6a-ac1c-406384ee982b)
-    (at 65.06 137.185 180)
+    (at 65 137.25 180)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
