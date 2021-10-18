@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "left.kicad_pro",
+    "filename": "right.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -384,7 +384,7 @@
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
+        "track_width": 0.2,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6.0
@@ -400,7 +400,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "left.dsn",
+      "specctra_dsn": "right.dsn",
       "step": "",
       "vrml": ""
     },
