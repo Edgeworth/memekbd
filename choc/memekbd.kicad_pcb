@@ -3880,7 +3880,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 0300c99d-5fd6-4cfe-b4e5-ee0ca2c2df91)
-    (at 96 21.75)
+    (at 96.5 22)
     (descr "Mounting Hole 3.2mm, M3, ISO7380")
     (tags "mounting hole 3.2mm m3 iso7380")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4051,7 +4051,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 3334f71d-1f07-49ac-842e-8d7b4f9b0df8)
-    (at 377.5 37.75)
+    (at 265.25 28.5)
     (descr "Mounting Hole 3.2mm, M3, ISO7380")
     (tags "mounting hole 3.2mm m3 iso7380")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4078,7 +4078,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 3ab791e5-2e82-499f-a28c-9f375096dc53)
-    (at 25 88)
+    (at 19.25 88.25)
     (descr "Mounting Hole 3.2mm, M3, ISO7380")
     (tags "mounting hole 3.2mm m3 iso7380")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4105,7 +4105,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 4fca1be3-18b8-46e9-8d92-06311d7865a4)
-    (at 357.25 61.75)
+    (at 272.75 87.75)
     (descr "Mounting Hole 3.2mm, M3, ISO7380")
     (tags "mounting hole 3.2mm m3 iso7380")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4132,7 +4132,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 56a55e34-58c5-4ec0-a743-d7cadb7f494b)
-    (at 294.75 91)
+    (at 180 96)
     (descr "Mounting Hole 3.2mm, M3, ISO7380")
     (tags "mounting hole 3.2mm m3 iso7380")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4159,7 +4159,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 6e1e709f-f82f-4949-91d4-9106e1e14600)
-    (at 320 68.75)
+    (at 217 96)
     (descr "Mounting Hole 3.2mm, M3, ISO7380")
     (tags "mounting hole 3.2mm m3 iso7380")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4186,7 +4186,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 7529cf8b-e24e-4e17-9fac-91673efb9ded)
-    (at 61.75 89.75)
+    (at 56 89.75)
     (descr "Mounting Hole 3.2mm, M3, ISO7380")
     (tags "mounting hole 3.2mm m3 iso7380")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4295,7 +4295,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 8a932565-ac7f-4c2d-9fc6-4a00c76a9f56)
-    (at 335.75 91)
+    (at 235 89.25)
     (descr "Mounting Hole 3.2mm, M3, ISO7380")
     (tags "mounting hole 3.2mm m3 iso7380")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4322,7 +4322,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 8fe7b2df-25e1-4fff-8421-5270f7200083)
-    (at 28 28.75)
+    (at 26.75 29)
     (descr "Mounting Hole 3.2mm, M3, ISO7380")
     (tags "mounting hole 3.2mm m3 iso7380")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4349,7 +4349,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 90841a8f-1ef8-4cb8-b5a5-4f9989229893)
-    (at 339.75 23.75)
+    (at 217 21.5)
     (descr "Mounting Hole 3.2mm, M3, ISO7380")
     (tags "mounting hole 3.2mm m3 iso7380")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4376,7 +4376,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp c6a182eb-70bc-4651-9ab6-475eeb400e11)
-    (at 380.25 84.5)
+    (at 243 73.25)
     (descr "Mounting Hole 3.2mm, M3, ISO7380")
     (tags "mounting hole 3.2mm m3 iso7380")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4465,7 +4465,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp d76c523e-503d-4ea9-a761-dca21172e598)
-    (at 111.75 96.5)
+    (at 111 96.5)
     (descr "Mounting Hole 3.2mm, M3, ISO7380")
     (tags "mounting hole 3.2mm m3 iso7380")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4492,7 +4492,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp e5100036-b3cc-4aa0-a9ee-56f5977acb8c)
-    (at 46.75 73.5)
+    (at 48 73.75)
     (descr "Mounting Hole 3.2mm, M3, ISO7380")
     (tags "mounting hole 3.2mm m3 iso7380")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4519,7 +4519,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp e80bf2d0-1537-4e33-9e5d-e3b7c2f8e620)
-    (at 320 30.75)
+    (at 195.5 21.5)
     (descr "Mounting Hole 3.2mm, M3, ISO7380")
     (tags "mounting hole 3.2mm m3 iso7380")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4546,7 +4546,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp ea20a4f1-b84d-41cd-95f1-a43929f59587)
-    (at 74 21.75)
+    (at 74 22)
     (descr "Mounting Hole 3.2mm, M3, ISO7380")
     (tags "mounting hole 3.2mm m3 iso7380")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -4573,7 +4573,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp f3971ae8-2341-45af-ba45-5ce42988ae9d)
-    (at 74.75 96.5)
+    (at 74 96.5)
     (descr "Mounting Hole 3.2mm, M3, ISO7380")
     (tags "mounting hole 3.2mm m3 iso7380")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -7268,7 +7268,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f0ba)
-    (at 92 104.5 90)
+    (at 93.053087 106.678958 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -7438,7 +7438,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f149)
-    (at 89 104.5 90)
+    (at 90.053087 106.678958 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -7600,7 +7600,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f208)
-    (at 189 103.75 90)
+    (at 186.55784 106.174321 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -7754,7 +7754,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f30b)
-    (at 186 103.75 90)
+    (at 183.55784 106.174321 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -7800,7 +7800,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f31f)
-    (at 101 104.5 90)
+    (at 102.053087 106.678958 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -7846,7 +7846,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f333)
-    (at 213 103.75 90)
+    (at 210.55784 106.174321 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -7892,7 +7892,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f347)
-    (at 98 104.5 90)
+    (at 99.053087 106.678958 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -8116,7 +8116,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f438)
-    (at 207 103.75 90)
+    (at 204.55784 106.174321 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -8224,7 +8224,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f4ca)
-    (at 107 104.5 90)
+    (at 108.053087 106.678958 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -8440,7 +8440,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f565)
-    (at 95 104.5 90)
+    (at 96.053087 106.678958 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -8548,7 +8548,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f597)
-    (at 192 103.75 90)
+    (at 189.55784 106.174321 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -8710,7 +8710,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f5ef)
-    (at 80 104.5 90)
+    (at 81.053087 106.678958 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -8810,7 +8810,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f629)
-    (at 83 104.5 90)
+    (at 84.053087 106.678958 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -8856,7 +8856,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f63d)
-    (at 201 103.75 90)
+    (at 198.55784 106.174321 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -8956,7 +8956,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f699)
-    (at 198 103.75 90)
+    (at 195.55784 106.174321 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -9056,7 +9056,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f6cc)
-    (at 195 103.75 90)
+    (at 192.55784 106.174321 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -9164,7 +9164,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f727)
-    (at 86 104.5 90)
+    (at 87.053087 106.678958 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -9272,7 +9272,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f759)
-    (at 104 104.5 90)
+    (at 105.053087 106.678958 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -9898,7 +9898,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d6f927)
-    (at 204 103.75 90)
+    (at 201.55784 106.174321 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
@@ -10702,7 +10702,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (layer "B.Cu")
     (tedit 5AE50EF0) (tstamp 00000000-0000-0000-0000-000060d70039)
-    (at 210 103.75 90)
+    (at 207.55784 106.174321 90)
     (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=6*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 5.00mm  diameter 6mm width 2.5mm Capacitor")
     (property "Sheetfile" "memekbd.kicad_sch")
