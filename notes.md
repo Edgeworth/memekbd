@@ -2,7 +2,7 @@
 4. Drill holes in bottom of PBT key caps or get translucent keys
 5. Shape changes? - thumb cluster etc
 6. tenting from top?
-7. reposition top 3 keys to reduce AABB size?
+7. repos/ition top 3 keys to reduce AABB size?
 8. Keepouts around all screw locations - just switch it to use plated through
    holes
 
